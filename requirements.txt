@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+lightkurve
+tensorflow
+scikit-learn
+pymc3
+batman-package
+astropy
+astroquery
+arviz

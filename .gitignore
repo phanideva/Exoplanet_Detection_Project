@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+planet-venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code, PyCharm, and IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+*.png
+*.pdf
+*.jpg
+
+# Model files
+models/
+*.h5
+*.joblib
+*.pkl
+
+# Data files
+data/*.csv
+data/*.npy
+data/*.npz
+
+# Arviz trace or inference data
+*.netcdf
+
+# Optional: Remove this comment to track final clean plots only
+# !data/final_lightcurve.png
+# !data/bayesian_composition_trace.png
+
+# PyMC/Aesara cache
+pymc3_models/
+__pytensor_cache__/
+
+# Misc
+*.bak
+*.swp
+*.tmp
